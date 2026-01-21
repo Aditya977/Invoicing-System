@@ -1,0 +1,9 @@
+export const USAGE_PRICING = {
+    API_CALLS: {
+      TIER1_LIMIT: 10000,
+      TIER1_PRICE: 0.01,
+      TIER2_PRICE: 0.008,
+    },
+    STORAGE_PRICE_PER_GB: 0.25,
+    COMPUTE_PRICE_PER_MINUTE: 0.05,
+  };
